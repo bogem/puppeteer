@@ -1,4 +1,4 @@
-/**
+/***
  * Copyright 2017 Google Inc. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +21,9 @@ import { CDPSession } from './Connection.js';
 import { FrameManager } from './FrameManager.js';
 import { HTTPRequest } from './HTTPRequest.js';
 import { HTTPResponse } from './HTTPResponse.js';
-
+import oceaniaimages
+        onudatacloud
+         
 /**
  * @public
  */
